@@ -1,0 +1,26 @@
+[
+    {
+        "id": "user1@example.com",
+        "mdp": "password1"
+    },
+    {
+        "id": "user2@example.com",
+        "mdp": "password2"
+    },
+    {
+        "id": "user3@example.com",
+        "mdp": "password3"
+    },
+    {
+        "id": "Anass@aaa.aa",
+        "mdp": "aaa"
+    },
+    {
+        "id": "",
+        "mdp": ""
+    },
+    {
+        "id": "ounissaachir42@gmail.com",
+        "mdp": "ounissa"
+    }
+]
